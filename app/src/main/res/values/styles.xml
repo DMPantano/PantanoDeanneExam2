@@ -1,0 +1,150 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textView">
+
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#306F07</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">SAM</item>
+
+    </style>
+
+    <style name="textView1">
+
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#AF0A0A</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">CLOVER</item>
+
+    </style>
+
+    <style name="textView2">
+
+        <item name="android:fontFamily">serif-monospace</item>
+        <item name="android:textSize">50dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#E7B611</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">ALEX</item>
+
+    </style>
+
+    <style name="textView3">
+
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">325dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">She is Dominique's rival. Sam's counterpart is Crimson, from the previous WOOHP spy team. She wears a green Catsuit when she's on a spy mission.</item>
+
+
+    </style>
+
+    <style name="textView4">
+
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">325dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">She is Caitlin's rival. Alex's counterpart is Alice, from the previous WOOHP spy team. She wears a golden yellow Catsuit on her WOOHP missions.</item>
+
+
+    </style>
+
+    <style name="textView5">
+
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">325dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">She is Mandy's rival. Clover's counterpart is Pam, from the previous WOOHP spy team. On her WOOHP missions she wears a red Catsuit.</item>
+
+
+    </style>
+
+    <style name="view1">
+
+        <item name="android:background">#DACFB3</item>
+
+    </style>
+
+    <style name="view2">
+
+        <item name="android:background">#DAB5B5</item>
+
+    </style>
+
+    <style name="view3">
+
+        <item name="android:background">#CDD8B4</item>
+
+    </style>
+
+    <style name="textViewa">
+
+     <item name="android:fontFamily">sans-serif</item>
+     <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">italic</item>
+    <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">SPY</item>
+
+    </style>
+
+    <style name="textViewb">
+
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">SPY</item>
+
+    </style>
+
+    <style name="textViewc">
+
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#000000</item>
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">SPY</item>
+
+    </style>
+
+
+</resources>
